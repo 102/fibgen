@@ -1,0 +1,26 @@
+{
+  "name": "tribonacci",
+  "version": "1.0.0",
+  "description": "Tribonacci function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/102/fibgen.git"
+  },
+  "keywords": [
+    "tribonacci",
+    "fibonacci"
+  ],
+  "author": "Roman Gusev <rgusev2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/102/fibgen/issues"
+  },
+  "homepage": "https://github.com/102/fibgen#readme",
+  "devDependencies": {
+    "@3/fibgen-test-utils": "^1.0.0"
+  }
+}

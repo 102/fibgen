@@ -1,0 +1,25 @@
+{
+  "name": "@3/fibgen-test-utils",
+  "version": "1.0.0",
+  "description": "Test utils for fibgen packages",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/102/fibgen.git"
+  },
+  "keywords": [
+    "tetranacci",
+    "tribonacci",
+    "fibonacci"
+  ],
+  "author": "Roman Gusev <rgusev2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/102/fibgen/issues"
+  },
+  "homepage": "https://github.com/102/fibgen#readme"
+}
