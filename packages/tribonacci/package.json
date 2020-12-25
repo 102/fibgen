@@ -1,6 +1,6 @@
 {
   "name": "tribonacci",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tribonacci function",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/102/fibgen#readme",
   "devDependencies": {
-    "@3/fibgen-test-utils": "^1.0.0"
+    "@3/fibgen-test-utils": "^1.0.1"
   }
 }

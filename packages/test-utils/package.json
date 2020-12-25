@@ -1,6 +1,6 @@
 {
   "name": "@3/fibgen-test-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test utils for fibgen packages",
   "main": "index.js",
   "private": true,
