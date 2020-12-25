@@ -1,6 +1,6 @@
 {
   "name": "tetranacci",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tetranacci function",
   "main": "index.js",
   "scripts": {
