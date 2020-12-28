@@ -22,5 +22,8 @@
   "homepage": "https://github.com/102/fibgen#readme",
   "devDependencies": {
     "@3/fibgen-test-utils": "^1.0.1"
+  },
+  "dependencies": {
+    "@3/fibgen-utils": "^1.0.0"
   }
 }

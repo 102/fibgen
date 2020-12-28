@@ -1,7 +1,7 @@
 {
-  "name": "tetranacci",
-  "version": "1.0.2",
-  "description": "Tetranacci function",
+  "name": "@3/fibonacci",
+  "version": "1.0.0",
+  "description": "Fibonacci function",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -11,7 +11,6 @@
     "url": "git+ssh://git@github.com/102/fibgen.git"
   },
   "keywords": [
-    "tetranacci",
     "fibonacci"
   ],
   "author": "Roman Gusev <rgusev2@gmail.com>",

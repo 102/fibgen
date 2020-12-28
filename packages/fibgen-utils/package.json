@@ -1,7 +1,7 @@
 {
-  "name": "tetranacci",
-  "version": "1.0.2",
-  "description": "Tetranacci function",
+  "name": "@3/fibgen-utils",
+  "version": "1.0.0",
+  "description": "Fibonacci generalization functions utils",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -19,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/102/fibgen/issues"
   },
-  "homepage": "https://github.com/102/fibgen#readme",
-  "devDependencies": {
-    "@3/fibgen-test-utils": "^1.0.1"
-  },
-  "dependencies": {
-    "@3/fibgen-utils": "^1.0.0"
-  }
+  "homepage": "https://github.com/102/fibgen#readme"
 }
