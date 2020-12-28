@@ -1,7 +1,6 @@
-function tribonacci(n) {
-  if (n < 2n) return 0n;
-  if (n === 2n) return 1n;
-  return tribonacci(n - 1n) + tribonacci(n - 2n) + tribonacci(n - 3n);
-}
+const { createFibonacciGeneralizationFunction } = require("@3/fibgen-utils");
 
-module.exports.tribonacci = tribonacci;
+module.exports.tribonacci = createFibonacciGeneralizationFunction(
+  3n,
+  "tribonacci"
+);
